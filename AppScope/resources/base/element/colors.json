@@ -1,0 +1,8 @@
+{
+  "color": [
+    { "name": "brand_primary", "value": "#3B82F6" },
+    { "name": "brand_secondary", "value": "#F97316" },
+    { "name": "bg_light", "value": "#FFFFFF" },
+    { "name": "bg_dark", "value": "#121212" }
+  ]
+}
